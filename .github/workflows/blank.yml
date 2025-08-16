@@ -22,7 +22,8 @@ jobs:
           LOCALE: en
           SHOW_PROFILE_VIEWS: true
           SHOW_TOP_LANGUAGES: true
-          SHOW_COMMIT: true
+          SHOW_STREAK: true
+          SHOW_COMMIT: false
           SHOW_DAYS_OF_WEEK: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
